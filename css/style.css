@@ -1,0 +1,50 @@
+body{
+    background-color: gainsboro;
+    font-size: large;
+}
+.sayfaortalama{
+    text-align: center;
+}
+.yanyanaliste {
+    display: inline;
+    font-size: 20px;
+    padding: 10px;
+ }
+ .ortalisteyazi{
+    list-style-position:inside;
+    list-style-type: none;
+    text-align: center;  
+}
+.ortalistegorsel{
+    list-style-position:inside;
+    text-align: center; 
+}
+.anabaslik{
+    font-size: 50px;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.altbaslikkirmizi{
+    font-size: 30px;
+    color: red;
+    font-family: 'Bebas Neue', cursive;
+}
+.altbaslikmavi{
+    font-size: 30px;
+    color: blue;
+    font-family: 'Bebas Neue', cursive;
+}
+.alticizili{
+    text-decoration: underline;
+}
+.footertype{
+    font-size: 15px;
+    position: relative;
+    margin-top: 200px;
+}
+.footertype2{
+    font-size: 15px;
+    position: relative;
+    margin-top: 120px;
+}
+
